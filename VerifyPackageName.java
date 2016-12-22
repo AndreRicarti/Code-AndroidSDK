@@ -1,5 +1,5 @@
 //Verify Package Name
-//@author Son182
+//@author : Son182
 //@Date : 2016-12-22
 
 final PackageManager pm = getPackageManager();
